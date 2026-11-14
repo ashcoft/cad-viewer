@@ -59,3 +59,5 @@ Thumbs.db
 # Local open-time paint benches
 *.ts.bench-bak
 .bench-out/
+.agent/dist/
+.agent/node_modules/
